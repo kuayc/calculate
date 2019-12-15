@@ -1,1 +1,1 @@
-Calculator vanilla JavaScript.
+Calculator using vanilla JavaScript.
